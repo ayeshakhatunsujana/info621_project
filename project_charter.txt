@@ -13,7 +13,7 @@ Business Objectives: Experimentation
 Fairness: N/A for reasoning
 
 TEAM COMPOSITION (duties)
-Abhay: model training, reward function design, (paper)
-Ayesha: experiment design, error analysis, (paper) 
-Maksim: pipeline automation, visualizations, (paper)
-Matthew: experiment design/runs, error analysis,  (paper)
+Abhay: model training, reward function design, (paper writing)
+Ayesha: experiment design, error analysis, (paper writing) 
+Maksim: pipeline automation, visualizations, (paper writing)
+Matthew: experiment design/runs, error analysis,  (paper writing)
